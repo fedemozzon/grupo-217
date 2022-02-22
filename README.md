@@ -2,3 +2,4 @@
 ## Alumnos
 - Federico Mozzon
 - Sebastian Ibañez
+- Natalia Lopardo
