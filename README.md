@@ -4,3 +4,4 @@
 - Sebastian Ibañez
 - Natalia Lopardo
 - Facundo Aizinas
+- Samir Salomon
